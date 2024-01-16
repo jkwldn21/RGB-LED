@@ -138,7 +138,7 @@
 
   (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4085" (layer "F.Cu")
     (tstamp 03ea2a51-1248-4bbe-971d-8acd080fc8ea)
-    (at 59.995 80.33)
+    (at 59.6106 119.6476)
     (descr "USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf")
     (tags "USB Type-C Receptacle Through-hole Right angle")
     (property "Sheetfile" "USB_C.kicad_sch")
@@ -242,7 +242,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 0a73413f-729b-440e-8f5d-2f4b69b81116)
-    (at 114.2125 55.36)
+    (at 104.4333 113.7118)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -300,7 +300,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 0b216f7c-a193-445f-8a14-8fd02954fc88)
-    (at 121.0188 82.9056)
+    (at 149.9826 99.8142)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "MAX7219.kicad_sch")
@@ -354,7 +354,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 10e1f5a0-d22d-4f92-9b11-1517d7c12052)
-    (at 114.2125 32.05)
+    (at 104.4333 90.4018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -412,7 +412,7 @@
 
   (footprint "Package_SO:SOP-24_7.5x15.4mm_P1.27mm" (layer "F.Cu")
     (tstamp 1176802c-e586-4aa1-84e4-d893170b6a1e)
-    (at 112.565 83.015)
+    (at 141.5288 99.9236)
     (descr "SOP, 24 Pin (http://www.issi.com/WW/pdf/31FL3218.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOP SO")
     (property "Sheetfile" "MAX7219.kicad_sch")
@@ -526,7 +526,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 1183f162-c594-4e89-a33a-e446ed832062)
-    (at 110.1625 32.05)
+    (at 100.3833 90.4018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -584,7 +584,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 11e845fe-ae15-43cc-ab5a-8585cd9a3b28)
-    (at 122.3125 32.05)
+    (at 112.5333 90.4018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -642,7 +642,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 1439823a-72a7-4735-a20a-0ed1bbeac1df)
-    (at 110.1625 45)
+    (at 100.3833 103.3518)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -700,7 +700,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 1645288e-21bb-43f6-a2f6-9d884210a4bb)
-    (at 110.1625 50.18)
+    (at 100.3833 108.5318)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -758,7 +758,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 18586bbe-e1c6-4493-a700-b43aba832999)
-    (at 102.0625 47.59)
+    (at 92.2833 105.9418)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -816,7 +816,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 19b8a0f4-4ae0-40b8-8ea4-fc1a16bd0d2f)
-    (at 110.1625 37.23)
+    (at 100.3833 95.5818)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -874,7 +874,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 22f428e9-6bc8-43ae-b09d-87f07e898bb7)
-    (at 110.1625 52.77)
+    (at 100.3833 111.1218)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -932,7 +932,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 2b9f440f-48a2-4334-9681-c1d85bf9335f)
-    (at 106.1125 57.95)
+    (at 96.3333 116.3018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -990,7 +990,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 32bbba4e-4757-4034-84ee-d59ebb1f53fa)
-    (at 70.775 82.51)
+    (at 72.0852 115.062)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "USB_C.kicad_sch")
@@ -1044,7 +1044,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 333ec228-9ee7-4a92-a9d8-c2139360548c)
-    (at 102.0625 45)
+    (at 92.2833 103.3518)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1102,7 +1102,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 33a215e8-94c7-46fb-81c1-b2c2a3794503)
-    (at 114.2125 47.59)
+    (at 104.4333 105.9418)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1160,7 +1160,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 362d98fc-9998-4e8e-b56d-00f785c36156)
-    (at 122.3125 52.77)
+    (at 112.5333 111.1218)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1218,7 +1218,7 @@
 
   (footprint "Button_Switch_SMD:SW_SPST_FSMSM" (layer "F.Cu")
     (tstamp 36cab350-1bb4-4959-af9b-1b560917a0ba)
-    (at 86.614 31.2212)
+    (at 140.1572 19.2278)
     (descr "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English")
     (tags "SPST button tactile switch")
     (property "Sheetfile" "ESP32.kicad_sch")
@@ -1292,7 +1292,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 395ae00c-a8a5-4b88-bfda-79d310a7077d)
-    (at 106.1125 32.05)
+    (at 96.3333 90.4018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1350,7 +1350,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 3d4942cc-ecc8-4c92-91c4-709ee315f7d3)
-    (at 102.0625 34.64)
+    (at 92.2833 92.9918)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1408,7 +1408,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 41ef50d3-f711-4e5a-a1b4-c33bc40f046a)
-    (at 118.2625 57.95)
+    (at 108.4833 116.3018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1466,7 +1466,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 44feb94d-84c2-47ff-a44f-148bfabdeeb6)
-    (at 102.0625 57.95)
+    (at 92.2833 116.3018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1524,7 +1524,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 495fd535-10e3-40d9-bdb5-bf3f557e8cb9)
-    (at 118.2625 50.18)
+    (at 108.4833 108.5318)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1582,7 +1582,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 4d61c1ba-ac6f-4fa5-ac80-0ecf67948e0d)
-    (at 118.2625 47.59)
+    (at 108.4833 105.9418)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1640,7 +1640,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 4ec82585-6954-469b-9c91-260a2322dc29)
-    (at 53.2344 41.1704)
+    (at 98.9224 25.1684)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "ESP32.kicad_sch")
@@ -1694,7 +1694,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 5676a2ed-9e96-411b-a24a-e9d72762654a)
-    (at 102.0625 55.36)
+    (at 92.2833 113.7118)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1752,7 +1752,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 5846db82-ffd9-4e09-8bd7-e6154c1c7e2b)
-    (at 114.2125 39.82)
+    (at 104.4333 98.1718)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1810,7 +1810,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 5a1033c6-23f6-4263-8189-2f56d2300cab)
-    (at 122.3125 37.23)
+    (at 112.5333 95.5818)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1868,7 +1868,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 5b3a58a2-43a7-4c0b-b7f5-9d3c1214288e)
-    (at 114.2125 52.77)
+    (at 104.4333 111.1218)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1926,7 +1926,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 60ef7e11-1d1a-426c-958c-5b44038fc92c)
-    (at 118.2625 32.05)
+    (at 108.4833 90.4018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -1984,7 +1984,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 6b154d22-154c-4419-bd11-33f4e00077f5)
-    (at 122.3125 47.59)
+    (at 112.5333 105.9418)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2042,7 +2042,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 70be1478-bb86-4b13-a67f-5917fb9a8dd9)
-    (at 118.2625 39.82)
+    (at 108.4833 98.1718)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2100,7 +2100,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 7104fed5-e1c3-42ab-84c6-396ecc27ef4c)
-    (at 122.3125 50.18)
+    (at 112.5333 108.5318)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2158,7 +2158,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 7212b069-f77e-48a0-8e51-49756627dad2)
-    (at 114.2125 34.64)
+    (at 104.4333 92.9918)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2216,7 +2216,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 7279b27f-670c-4276-aab5-4f6ba32540c6)
-    (at 114.2125 50.18)
+    (at 104.4333 108.5318)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2274,7 +2274,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 78852f8c-d916-4cad-80da-ce10e8db38fe)
-    (at 122.3125 45)
+    (at 112.5333 103.3518)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2332,7 +2332,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 7d4a99ea-8f88-426e-9e7a-983b24a66cf5)
-    (at 110.1625 57.95)
+    (at 100.3833 116.3018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2390,7 +2390,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 7e063c20-19ea-4deb-80f8-6b4245ff4385)
-    (at 114.2125 45)
+    (at 104.4333 103.3518)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2448,7 +2448,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 80453e30-0b20-4480-b163-27765be286f9)
-    (at 106.1125 47.59)
+    (at 96.3333 105.9418)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2506,7 +2506,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 8089b787-0aef-4397-b33d-1f39752f5777)
-    (at 110.1625 55.36)
+    (at 100.3833 113.7118)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2564,7 +2564,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 8746a6ba-6e1b-4606-a0b5-c7f3fefbbbf8)
-    (at 114.2125 57.95)
+    (at 104.4333 116.3018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2622,7 +2622,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 8a03d882-bfad-4f83-b121-f924a8416cd3)
-    (at 70.775 85.02)
+    (at 72.0852 117.572)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "USB_C.kicad_sch")
@@ -2676,7 +2676,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 910b2132-be2b-4863-b353-d4aedabd2cad)
-    (at 118.2625 52.77)
+    (at 108.4833 111.1218)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2734,7 +2734,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 9af21c07-558f-4a4c-ac57-266fc3510b50)
-    (at 53.2344 38.6604)
+    (at 98.9224 22.6584)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "ESP32.kicad_sch")
@@ -2788,7 +2788,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 9f987e0a-7ebd-4701-a176-b5169191591f)
-    (at 53.2344 43.6804)
+    (at 98.9224 27.6784)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "ESP32.kicad_sch")
@@ -2842,7 +2842,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp a178d0df-7b21-4566-adce-d79b704da63c)
-    (at 118.2625 34.64)
+    (at 108.4833 92.9918)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2900,7 +2900,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp a3d2435a-59c7-4d44-a34e-076d3c92d762)
-    (at 122.3125 34.64)
+    (at 112.5333 92.9918)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -2958,7 +2958,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp a5a2c4d0-5bae-4519-b2b9-f06886108bdd)
-    (at 102.0625 37.23)
+    (at 92.2833 95.5818)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3016,7 +3016,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp a7228cf5-68a2-464b-9373-0145163151ae)
-    (at 106.1125 50.18)
+    (at 96.3333 108.5318)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3074,7 +3074,7 @@
 
   (footprint "TestPoint:TestPoint_Keystone_5015_Micro-Minature" (layer "F.Cu")
     (tstamp a79008d7-c61b-41cb-8ccd-0056ecef04dc)
-    (at 121.665 76.415)
+    (at 150.6288 93.3236)
     (descr "SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353")
     (tags "Test Point")
     (property "Sheetfile" "MAX7219.kicad_sch")
@@ -3130,7 +3130,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp a8b795d4-afaa-4080-a28e-030dd8e6cc93)
-    (at 122.3125 39.82)
+    (at 112.5333 98.1718)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3188,7 +3188,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp a99f86b9-7c9b-4843-b3c1-2f38a6023e03)
-    (at 106.1125 52.77)
+    (at 96.3333 111.1218)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3246,7 +3246,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp aa842902-b969-4e95-9079-eda618d01faf)
-    (at 118.2625 37.23)
+    (at 108.4833 95.5818)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3304,7 +3304,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp ac58148e-0106-4019-857c-2196c8dd1077)
-    (at 70.775 80)
+    (at 72.0852 112.552)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "USB_C.kicad_sch")
@@ -3358,7 +3358,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp ac83ad5f-f155-49a8-bee8-f961a45bcf6c)
-    (at 120.995 79.545)
+    (at 149.9588 96.4536)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "MAX7219.kicad_sch")
@@ -3412,7 +3412,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp ad1a3d7b-7268-4a75-8dca-3232a8369840)
-    (at 114.2125 37.23)
+    (at 104.4333 95.5818)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3470,7 +3470,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp aef39212-93b9-408a-a018-44a07f59d8a6)
-    (at 106.1125 45)
+    (at 96.3333 103.3518)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3528,7 +3528,7 @@
 
   (footprint "Library:XCVR_ESP32-S3-WROOM-1-N4" (layer "F.Cu")
     (tstamp af4c3e7f-7e65-4828-95df-a8f21c13e8b4)
-    (at 69.7992 43.688)
+    (at 119.2914 21.4144)
     (property "MANUFACTURER" "Espressif")
     (property "MAXIMUM_PACKAGE_HEIGHT" "3.25mm")
     (property "PARTREV" "v1.0")
@@ -3706,10 +3706,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 60.7992 30.938)
-          (xy 78.7992 30.938)
-          (xy 78.7992 36.938)
-          (xy 60.7992 36.938)
+          (xy 110.2914 8.6644)
+          (xy 128.2914 8.6644)
+          (xy 128.2914 14.6644)
+          (xy 110.2914 14.6644)
         )
       )
     )
@@ -3720,10 +3720,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 60.7992 30.938)
-          (xy 78.7992 30.938)
-          (xy 78.7992 36.938)
-          (xy 60.7992 36.938)
+          (xy 110.2914 8.6644)
+          (xy 128.2914 8.6644)
+          (xy 128.2914 14.6644)
+          (xy 110.2914 14.6644)
         )
       )
     )
@@ -3734,10 +3734,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 60.7992 30.938)
-          (xy 78.7992 30.938)
-          (xy 78.7992 36.938)
-          (xy 60.7992 36.938)
+          (xy 110.2914 8.6644)
+          (xy 128.2914 8.6644)
+          (xy 128.2914 14.6644)
+          (xy 110.2914 14.6644)
         )
       )
     )
@@ -3745,7 +3745,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp afbcbff4-0e6e-4393-a4d0-c6bbd3b661b1)
-    (at 102.0625 32.05)
+    (at 92.2833 90.4018)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3803,7 +3803,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp b500cdbc-e2df-475f-b4bc-de0635237de3)
-    (at 110.1625 42.41)
+    (at 100.3833 100.7618)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3861,7 +3861,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp b52dda0d-884d-4b9e-a675-46fecd853278)
-    (at 114.2125 42.41)
+    (at 104.4333 100.7618)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3919,7 +3919,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp b814a22a-28cb-4076-9f9f-405e78365e5c)
-    (at 102.0625 39.82)
+    (at 92.2833 98.1718)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -3977,7 +3977,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp bed395f4-b24b-4df5-8733-acf41d42a2fc)
-    (at 118.2625 55.36)
+    (at 108.4833 113.7118)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4035,7 +4035,7 @@
 
   (footprint "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" (layer "F.Cu")
     (tstamp bf991254-b968-49f6-8222-0f6aaa332362)
-    (at 57.6994 39.3804)
+    (at 103.3874 23.3784)
     (descr "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf")
     (tags "LED RGB NeoPixel Nano PLCC-4")
     (property "Sheetfile" "ESP32.kicad_sch")
@@ -4103,7 +4103,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp c45aa970-2237-4c1e-9fef-990cf2e75457)
-    (at 118.2625 42.41)
+    (at 108.4833 100.7618)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4161,7 +4161,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp c480342c-cba8-47e4-9b8d-7e337cd1d565)
-    (at 106.1125 34.64)
+    (at 96.3333 92.9918)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4219,7 +4219,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp c4dc6340-2e1c-444e-87cb-eefc11d5d92a)
-    (at 85.775 92.51)
+    (at 75.8055 22.9014)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "VoltageRegulator.kicad_sch")
@@ -4273,7 +4273,7 @@
 
   (footprint "Button_Switch_SMD:SW_SPST_FSMSM" (layer "F.Cu")
     (tstamp c5fb6918-4f14-497e-854b-c6fec6c783aa)
-    (at 86.614 36.2712)
+    (at 140.1572 24.2778)
     (descr "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English")
     (tags "SPST button tactile switch")
     (property "Sheetfile" "ESP32.kicad_sch")
@@ -4347,7 +4347,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp d165d929-e6b9-4112-8af2-2d32e101dfd0)
-    (at 110.1625 34.64)
+    (at 100.3833 92.9918)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4405,7 +4405,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp d4e16407-b032-4ecb-b9e0-46d750402606)
-    (at 122.3125 42.41)
+    (at 112.5333 100.7618)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4463,7 +4463,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp d63bbd93-e206-4c75-9fbf-079228f88f73)
-    (at 106.1125 55.36)
+    (at 96.3333 113.7118)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4521,7 +4521,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp d6f6f6d7-2e88-4c15-81ec-20102aa9bc5d)
-    (at 110.1625 39.82)
+    (at 100.3833 98.1718)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4579,7 +4579,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp d75c60bd-9302-446e-9bda-19346eb10688)
-    (at 118.2625 45)
+    (at 108.4833 103.3518)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4637,7 +4637,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp dbf89cf0-ddbf-4601-8dba-1f9b3cd674dc)
-    (at 85.775 90)
+    (at 75.8055 20.3914)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "VoltageRegulator.kicad_sch")
@@ -4691,7 +4691,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp e7f8ce0a-a57f-4a70-93c0-e3b3fe47def6)
-    (at 106.1125 39.82)
+    (at 96.3333 98.1718)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4749,7 +4749,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp eaf9a155-5628-42dd-87ef-b78fde11e041)
-    (at 102.0625 50.18)
+    (at 92.2833 108.5318)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4807,7 +4807,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23-5" (layer "F.Cu")
     (tstamp ebf5c04f-4d51-48fa-b61f-b60e477304f6)
-    (at 90.355 90.97)
+    (at 80.3855 21.3614)
     (descr "SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "VoltageRegulator.kicad_sch")
@@ -4873,7 +4873,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp ee854969-fec0-4fc6-adee-860b45d2e826)
-    (at 110.1625 47.59)
+    (at 100.3833 105.9418)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4931,7 +4931,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp effb3003-2879-4e43-bcdb-68d88af2d862)
-    (at 102.0625 52.77)
+    (at 92.2833 111.1218)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -4989,7 +4989,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp f5638d7d-8e32-4a00-867f-be5131594620)
-    (at 102.0625 42.41)
+    (at 92.2833 100.7618)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -5047,7 +5047,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp fd2f1efd-60d5-45c1-9a04-e056f3d6a2ac)
-    (at 106.1125 37.23)
+    (at 96.3333 95.5818)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -5105,7 +5105,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp fdca84d7-e64a-438d-8400-ceb699ef8e25)
-    (at 106.1125 42.41)
+    (at 96.3333 100.7618)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "LED_Matrix.kicad_sch")
@@ -5161,31 +5161,31 @@
     )
   )
 
-  (gr_rect (start 103.4796 70.9422) (end 127.1524 94.9198)
+  (gr_rect (start 132.4434 87.8508) (end 156.1162 111.8284)
     (stroke (width 0.15) (type default)) (fill none) (layer "Cmts.User") (tstamp 196915fa-cf0f-46df-a51b-80f15a239d3f))
-  (gr_rect (start 79.3242 86.6648) (end 97.9678 96.4438)
+  (gr_rect (start 69.3547 17.0562) (end 87.9983 26.8352)
     (stroke (width 0.15) (type default)) (fill none) (layer "Cmts.User") (tstamp 9eadd69d-64f3-4ec7-870c-7f04fa0e4e5d))
-  (gr_rect (start 51.1048 27.305) (end 96.4184 65.1256)
+  (gr_rect (start 91.9988 14.732) (end 156.9212 41.4528)
     (stroke (width 0.15) (type default)) (fill none) (layer "Cmts.User") (tstamp a7bf5447-d3ef-49ad-bc3d-2532eeb2f18d))
-  (gr_rect (start 98.2726 28.1432) (end 126.8476 61.1632)
+  (gr_rect (start 88.4934 86.495) (end 117.0684 119.515)
     (stroke (width 0.15) (type default)) (fill none) (layer "Cmts.User") (tstamp be963394-5ab7-4583-a1d5-50d125e53ef4))
-  (gr_rect (start 55 75) (end 75 95)
+  (gr_rect (start 55.8952 105.0442) (end 75.8952 125.0442)
     (stroke (width 0.15) (type default)) (fill none) (layer "Cmts.User") (tstamp c0e01e1a-dc4e-4cc3-9ad8-16e7b05d9764))
-  (gr_rect (start 50 25) (end 130 100)
+  (gr_rect (start 41.1988 14.5796) (end 160.3502 124.968)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 58fd7a90-742d-459d-bc18-01997bb92dd7))
-  (gr_text "ESP32" (at 67.1068 28.9052) (layer "Cmts.User") (tstamp 00bb118f-9f44-424e-9e4e-f9ecfecfe470)
+  (gr_text "ESP32" (at 116.8 72.4394) (layer "Cmts.User") (tstamp 00bb118f-9f44-424e-9e4e-f9ecfecfe470)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "LED MATRIX" (at 109.4232 27.5336) (layer "Cmts.User") (tstamp 7ee7e65e-61ee-4cd2-8590-8fc9c7019208)
+  (gr_text "LED MATRIX" (at 99.7596 85.9544) (layer "Cmts.User") (tstamp 7ee7e65e-61ee-4cd2-8590-8fc9c7019208)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "3.3V REGULATOR\n" (at 82.55 86.36) (layer "Cmts.User") (tstamp b2ab7a51-6510-4420-ba5e-520ed9a71160)
+  (gr_text "3.3V REGULATOR\n" (at 72.5805 16.7514) (layer "Cmts.User") (tstamp b2ab7a51-6510-4420-ba5e-520ed9a71160)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "MAX7219" (at 120.269 70.612) (layer "Cmts.User") (tstamp b603b415-7ea9-4c0d-bbb1-e05aeded9057)
+  (gr_text "MAX7219" (at 149.2328 87.5206) (layer "Cmts.User") (tstamp b603b415-7ea9-4c0d-bbb1-e05aeded9057)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "USB-C\n" (at 60 95) (layer "Cmts.User") (tstamp e429734e-4ef4-4694-832b-43c66aadc53c)
+  (gr_text "USB-C\n" (at 58.0136 104.0638) (layer "Cmts.User") (tstamp e429734e-4ef4-4694-832b-43c66aadc53c)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
 
