@@ -420,7 +420,7 @@
   (symbol (lib_id "Device:C") (at 138.43 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7674b44c-8eb1-43eb-bb36-271e6ec551df)
-    (property "Reference" "COUT" (at 142.24 80.01 0)
+    (property "Reference" "C6" (at 142.24 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF 6.3V Y5V" (at 142.24 82.55 0)
@@ -437,7 +437,7 @@
     (instances
       (project "RGB LED"
         (path "/ac9a3c3e-b738-422c-8f43-94adc2643155/5a3cbc46-2a8b-41f0-a8f6-c2ea794ad112"
-          (reference "COUT") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -446,7 +446,7 @@
   (symbol (lib_id "Device:C") (at 99.06 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f616550-0ec3-430a-a1ca-75bf4b518fa5)
-    (property "Reference" "CIN" (at 102.87 80.01 0)
+    (property "Reference" "C5" (at 102.87 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF 6.3V Y5V" (at 102.87 82.55 0)
@@ -463,7 +463,7 @@
     (instances
       (project "RGB LED"
         (path "/ac9a3c3e-b738-422c-8f43-94adc2643155/5a3cbc46-2a8b-41f0-a8f6-c2ea794ad112"
-          (reference "CIN") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
