@@ -107,11 +107,11 @@
         )
       )
     )
-    (symbol "power:+3V3" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:+3.3V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "+3V3" (at 0 3.556 0)
+      (property "Value" "+3.3V" (at 0 3.556 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 0 0)
@@ -123,10 +123,10 @@
       (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"+3V3\"" (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"+3.3V\"" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "+3V3_0_1"
+      (symbol "+3.3V_0_1"
         (polyline
           (pts
             (xy -0.762 1.27)
@@ -152,9 +152,9 @@
           (fill (type none))
         )
       )
-      (symbol "+3V3_1_1"
+      (symbol "+3.3V_1_1"
         (pin power_in line (at 0 0 90) (length 0) hide
-          (name "+3V3" (effects (font (size 1.27 1.27))))
+          (name "+3.3V" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -254,7 +254,7 @@
   )
 
   (junction (at 138.43 77.47) (diameter 0) (color 0 0 0 0)
-    (uuid 7cb139e4-3247-4aa8-83d7-682eb1ca9131)
+    (uuid 5b90483a-0a06-46d6-9c91-e93eb9864e74)
   )
   (junction (at 111.76 77.47) (diameter 0) (color 0 0 0 0)
     (uuid a76b3c31-a692-4fdc-ba83-ad53dfc8e5c7)
@@ -392,31 +392,6 @@
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 138.43 77.47 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 61a7b347-ca1f-497a-a005-b0f0b5c29749)
-    (property "Reference" "#PWR012" (at 138.43 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (at 138.43 72.39 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 138.43 77.47 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 138.43 77.47 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 767b677f-212d-49b7-a526-3ce2dcab25f7))
-    (instances
-      (project "RGB LED"
-        (path "/ac9a3c3e-b738-422c-8f43-94adc2643155/5a3cbc46-2a8b-41f0-a8f6-c2ea794ad112"
-          (reference "#PWR012") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:C") (at 138.43 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7674b44c-8eb1-43eb-bb36-271e6ec551df)
@@ -489,6 +464,31 @@
       (project "RGB LED"
         (path "/ac9a3c3e-b738-422c-8f43-94adc2643155/5a3cbc46-2a8b-41f0-a8f6-c2ea794ad112"
           (reference "#PWR04") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3.3V") (at 138.43 77.47 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e6c0f3cf-818c-4b00-a1f4-559a30b53245)
+    (property "Reference" "#PWR021" (at 138.43 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3.3V" (at 138.43 72.39 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 138.43 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 138.43 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 378b868d-675c-4dd3-af64-047c11bec786))
+    (instances
+      (project "RGB LED"
+        (path "/ac9a3c3e-b738-422c-8f43-94adc2643155/5a3cbc46-2a8b-41f0-a8f6-c2ea794ad112"
+          (reference "#PWR021") (unit 1)
         )
       )
     )
