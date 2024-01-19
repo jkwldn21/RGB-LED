@@ -3,4 +3,5 @@
   (lib (name "KiCADv6")(type "KiCad")(uri "/Users/jkang21/Documents/KiCADv6.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "/Users/jkang21/Documents/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "/Users/jkang21/Documents/KiCADv6/footprints.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/Graphics.pretty")(options "")(descr ""))
 )
